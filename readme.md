@@ -1,3 +1,3 @@
 Valyria McFarland
-This might cause a merge conflict
+Partner: Tristan Swanson
 Version Control
